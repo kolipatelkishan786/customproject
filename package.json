@@ -1,0 +1,19 @@
+{
+  "name": "customproject",
+  "version": "1.0.0",
+  "description": "customproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolipatelkishan786/customproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolipatelkishan786/customproject/issues"
+  },
+  "homepage": "https://github.com/kolipatelkishan786/customproject#readme"
+}
