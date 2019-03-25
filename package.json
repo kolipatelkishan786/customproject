@@ -31,5 +31,16 @@
     "core-js": "^3.0.0",
     "rxjs": "^6.4.0",
     "zone.js": "^0.9.0"
+  },
+  "devDependencies": {
+    "angular-router-loader": "^0.8.5",
+    "angular2-template-loader": "^0.6.2",
+    "awesome-typescript-loader": "^5.2.1",
+    "del-cli": "^1.1.0",
+    "html-loader": "^0.5.5",
+    "raw-loader": "^2.0.0",
+    "typescript": "^3.3.4000",
+    "webpack": "^4.29.6",
+    "webpack-dev-server": "^3.2.1"
   }
 }
